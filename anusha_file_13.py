@@ -1,2 +1,4 @@
-print("Hello world")
-print("This is Anusha")
+def add_numbers(a,b):
+    return a+b
+result=add_numbers(5,2)
+print(result)
