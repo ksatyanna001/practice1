@@ -1,3 +1,3 @@
 print("hello world")
 print("this is manasa")
-print("this is new messaged")
+print("this is new message")
