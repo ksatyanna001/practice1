@@ -1,4 +1,4 @@
-a=5
-b=10
-c=a+b
-print("Addition:",c)
+def add_numbers(a,b):
+    return a+b
+result=add_numbers(10,15)
+print(result)

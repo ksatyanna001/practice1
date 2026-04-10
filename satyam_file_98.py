@@ -1,2 +1,6 @@
-print("this is my first python file")
-print("hello world  ")
+a=10
+b=13
+if b>a:
+    print("b is greater than a")
+else:
+    print("a is greater than b")
