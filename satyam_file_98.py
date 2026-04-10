@@ -1,2 +1,4 @@
-print("this is my first python file")
-print("hello world  ")
+a=2
+b=5
+result=a*b
+print("Multiplication is:",result)
