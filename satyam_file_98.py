@@ -6,4 +6,6 @@ def feb(n):
 
 n = int(input("Enter the number of Fibonacci numbers to generate: "))
 print("Fibonacci sequence:")
-print("done successfully")
+for num in feb(n):
+    print(num, end=" ")
+print("\ndone successfully")
