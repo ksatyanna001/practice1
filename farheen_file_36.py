@@ -1,9 +1,9 @@
 a=10
 b=5
-print("a-b")
+print("a+b")
 
 def subtract(a,b):
-    return a-b
+    return a+b
     a=10
     b=5
-    print("a-b=",subtract(a,b))
+    print("a+b=",add(a,b))
